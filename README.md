@@ -21,8 +21,7 @@ pour participer à la conception d'applications <b>web, logicielles ou mobiles</
 - Java / Spring Boot
 
 #### 🗄️ Bases de données
-- MySQL
-- Conception et gestion de bases de données
+- Conception et modélisation de bases de données (MySQL)
 
 #### ⚙️ Écosystème de développement
 - Architecture d’applications
